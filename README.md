@@ -4,3 +4,4 @@
 ## Polybar
 ## Rofi
 ## Sxhkd
+## NeoVim
