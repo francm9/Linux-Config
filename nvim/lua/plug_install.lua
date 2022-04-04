@@ -7,6 +7,8 @@ use 'wbthomason/packer.nvim'
 --Temas--
 --Nord--
 use 'shaunsingh/nord.nvim'
+use 'jacoborus/tender.vim'
+use 'Mofiqul/dracula.nvim'
 
 --TreeSitter--
 use {
@@ -44,5 +46,11 @@ use 'preservim/nerdcommenter'
 
 --Debugger para c--
 use 'puremourning/vimspector'
+
+--Markdown preview--
+use {
+    'iamcco/markdown-preview.nvim',
+    run = 'cd app && yarn install'
+}
 end)
 
