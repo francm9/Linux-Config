@@ -2,7 +2,7 @@
 
 configuration {
   show-icons:         true;
-  icon-theme:         "Papirus";
+  icon-theme:         "Material Icons";
 }
 
-@theme "/home/fran/.config/rofi/launchers/ribbon/ribbon_left_round.rasi"
+@theme "/home/fran/.config/rofi/launchers/colorful/style_1.rasi"

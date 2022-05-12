@@ -142,3 +142,6 @@ alt + @F7
 ctr + alt + b
 	xrandr --auto --output eDP-1 --primary
 
+#Hacer capturas
+alt + @F5
+    gnome-screenshot

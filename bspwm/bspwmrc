@@ -25,6 +25,6 @@ bspc rule -a Screenkey manage=off
 #xrandr --addmode HDMI-2 "2560x1080_75.00" 
 #xrandr --auto --output HDMI-2 --mode 2560x1080_75.00 --primary --left-of eDP-1
 
-feh --bg-fill /home/fran/Descargas/mountains.jpg
+feh --bg-fill /home/fran/Descargas/groot2.jpg
 
 wmname LG3D
